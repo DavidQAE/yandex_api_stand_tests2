@@ -1,5 +1,4 @@
 import sender_stand_request
-import requests
 import data
 
 def get_user_body(first_name):
